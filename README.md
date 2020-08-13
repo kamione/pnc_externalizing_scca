@@ -16,7 +16,7 @@
     + combine behavior and brain data for SCCA analyses to R data
 + Step06: scca_adhd_rois.R
     + run SCCA on ADHD-related brain hubs and generate relevant figures of results
-        1. regressing out variables
+        1. regress out confounding variables
         2. split into discovery and replication
         3. SCCA main analysis
         4. permutation analysis for no. of modes
@@ -24,7 +24,7 @@
         6. visualization
 + Step07: scca_dbd_rois.R
     + run SCCA on DBD-related brain hubs and generate relevant figures of results
-        1. regressing out variables
+        1. regress out confounding variables
         2. split into discovery and replication
         3. SCCA main analysis
         4. permutation analysis for no. of modes
