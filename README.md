@@ -24,6 +24,7 @@
         3. SCCA main analysis
         4. permutation analysis for no. of modes
         5. boostrapping analysis for stability
+        6. visualization
 + Step07: scca_dbd_rois.R
     + run SCCA on DBD-related brain hubs and generate relevant figures of results
         1. regressing out variables
@@ -31,6 +32,7 @@
         3. SCCA main analysis
         4. permutation analysis for no. of modes
         5. boostrapping analysis for stability
+        6. visualization
 + Note: Step 6 and 7 used the same random seed so they give the same split discovery and replication samples.
 
 ### utilities
