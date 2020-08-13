@@ -1,8 +1,5 @@
 ## Information
 
-- Authors: Ting-Yat Wong
-- Emails: tywong@gmail.com
-- Last Updates: 12-Aug-2020
 
 ## Folder Structure
 
