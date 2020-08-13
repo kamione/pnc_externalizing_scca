@@ -31,6 +31,7 @@
         3. SCCA main analysis
         4. permutation analysis for no. of modes
         5. boostrapping analysis for stability
++ Note: Step 6 and 7 used the same random seed so they give the same split discovery and replication samples.
 
 ### utilities
 + Folder: R
